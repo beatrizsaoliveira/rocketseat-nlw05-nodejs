@@ -30,7 +30,7 @@ This Project was developed during the Node.js path in NLW05 by Rocketseat. I lea
 ## 🏃‍♀️ How to run
 
 -   Clone this repo
--   Install all dependencies with `npm install`
--   Start the server with `npm run dev`
+-   Install all dependencies with `yarn install`
+-   Start the server with `yarn dev`
 
 You can access the app typing [`localhost:8080`](http://localhost:8080) on your browser.
